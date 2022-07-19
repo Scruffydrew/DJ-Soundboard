@@ -1,0 +1,14 @@
+const { SlashCommandBuilder } = require("@discordjs/builders");
+const { errEmb,emb } = require("../helpers/utils.js");
+const Discord = require("discord.js");
+
+module.exports = {
+  formatName:"name",
+  data: new SlashCommandBuilder()
+    .setName("name")
+    .setDescription("description"),
+  async execute(interaction,conf) {
+let mongoDB = global.mongoDB;
+const { collection } = mongoDB;
+  },
+};

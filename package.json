@@ -1,0 +1,31 @@
+{
+  "name": "discordsoundboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LEGENDARY",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.4.1",
+    "@discordjs/voice": "^0.9.0",
+    "discord-api-types": "^0.31.2",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
+    "ffmpeg-static": "^4.4.1",
+    "geoip-lite": "^1.4.5",
+    "html": "^1.0.0",
+    "node-fetch": "^2.6.7",
+    "pm2": "^5.2.0",
+    "prettier": "^2.6.2",
+    "tweetnacl": "^1.0.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {
+    "file-type": "^16.5.3"
+  }
+}

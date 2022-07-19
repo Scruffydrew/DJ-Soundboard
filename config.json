@@ -1,0 +1,11 @@
+{
+  "token": "OTM2ODgwMTU5NTY1NDMwODM1.YfTnpA.dyTHMiYqH6V0TH_XcBN12LRP2wc",
+  "clientId": "936880159565430835",
+  "guildId": "543682651534393345",
+  "prefix": "?",
+  "PORT": "2341",
+  "voiceDefault": {
+	"channel": "543682651534393350",
+    "volume": "0.5"
+  }
+}
